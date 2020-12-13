@@ -161,7 +161,7 @@ main {
 
 .grid-item {
   border: 5px solid var(--secondary);
-  grid-column: span 4;
+  grid-column: span 3;
   background-color: var(--primary);
   color: var(--tertiary);
   min-height: 150px;
@@ -170,14 +170,14 @@ main {
   padding: 0 0 20px 0;
   text-decoration: none;
   background-blend-mode: soft-light;
-  background-size: 150%;
+  background-size: 100%;
   transition: all 0.5s;
   font-size: 0.9rem;
 }
 
 /* feature first portfolio item */
 .grid-item:first-child {
-    grid-column: span 8;
+    grid-column: span 6;
     grid-row: span 2;
 }
 
