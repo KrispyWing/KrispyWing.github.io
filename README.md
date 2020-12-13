@@ -17,5 +17,5 @@ The website currently uses HTML and CSS
 The website can be viewed at https://krispywing.github.io
 
 ## Preview
-<img src="./assets/images/portfoliopreview.jpg />
+<img src="./assets/images/portfoliopreview.jpg" />
 
