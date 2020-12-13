@@ -6,7 +6,9 @@
 
 ## General Info
 The idea was to start creating a website that can double as a personal portfolio of projects I create while going through the bootcamp.
-It contains a navigation header to jump to each section. 
+
+It contains a navigation header to jump to each section.
+
 * Currently the Resume link in the navigation bar does not work
 * Only the Run Buddy Project is currently linked to an active website
 
