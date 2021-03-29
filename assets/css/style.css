@@ -243,8 +243,8 @@ main {
 }
 
 /* PORTFOLIO PROJECT IMAGES */
-.run-buddy {
-  background-image: url("../images/02-run-buddy.jpg");
+.work-day-scheduler {
+  background-image: url("../images/work-day-scheduler.jpg");
 }
 
 .weather-dashboard {
@@ -255,12 +255,17 @@ main {
   background-image: url("../images/code-quiz.png");
 }
 
-.pastel-puzzles {
-  background-image: url("../images/02-portfolio-3.jpg");
+.note-taker {
+  background-image: url("../images/note-taker.jpg");
 }
 
 .covid-positivity {
   background-image: url("../images/covidpositivity.png");
+}
+
+.dangles {
+  background-image: url('../images/dangles.jpg');
+  background-size: cover;
 }
 
 /* END PORTFOLIO PROJECT IMAGES */
